@@ -1,5 +1,9 @@
 # Taller3_Mlops
 
+Sebastian Ovalle
+Manuel Orti Camacho 
+Julian Marulanda 
+
 # Evaluación del Caso - Taller MLOps
 
 ## 1. Métrica de desempeño más importante
